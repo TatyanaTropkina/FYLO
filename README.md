@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 <!-- - Solution URL: (https://your-solution-url.com) -->
-- Live Site URL: (https://tatyanatropkina.github.io/Blogr/)
+- Live Site URL: (https://tatyanatropkina.github.io/FYLO/)
 
 ## My process
 

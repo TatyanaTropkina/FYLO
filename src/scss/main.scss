@@ -6,14 +6,13 @@
 
 .header {
 
-	padding-bottom: 160px;
+	padding: 74px 0 160px;
 	background: $blue1 url(../images/bg-curvy-desktop.svg) bottom/ 100% 420px no-repeat;
 
 	&__top {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 18px 0;
 	}
 
 	&__content {
@@ -44,8 +43,6 @@
 
 	}
 }
-
-
 
 .features {
 	padding: 0 0 65px;

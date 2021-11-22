@@ -116,8 +116,8 @@ button {
 }
 
 .title {
-	font-size: 32px;
-	line-height: 124%;
+	font-size: 40px;
+	line-height: 169%;
 	@extend %raleway-bold;
 }
 
@@ -328,5 +328,9 @@ button {
 	.header__btn {
 
 		padding: 16px 73px;
+	}
+
+	.footer {
+		padding: 190px 0 35px;
 	}
 }
